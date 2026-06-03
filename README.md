@@ -17,10 +17,10 @@ This will be a 90 minute pair programming style exercise in which you will attem
     - Use of modern framework/language features
 1. This **is not a closed book** test, you are free to Google search or Stack Overflow any answers you need.
 1. You may use any OSS packages/nuget code you wish
-1. We would prefer you not to prepare any code ahead of time, because we want to pair with you and see how you think/solve problems, but we appreciate that this can be stressful so if you wish to spend time outside the interview to prep then please do so; but please remember we don't expect it because your time is valuable.
-1. You are free to use any IDE you wish, and if you would like a blank solution to bootstrap your work:
+1. Please ensure you have a working IDE ready for the interview so we can get started quickly. You are welcome to clone our sample repo and check that it builds successfully ahead of time:
 	- [C# Starter Solution](https://github.com/trainlinerecruitment/starter-solution-csharp)
 	- [Ruby Starter Solution](https://github.com/trainlinerecruitment/starter-solution-ruby)
+1. Please do not prepare any code ahead of time. Feel free to think about the problem and come with ideas of how you would approach it, but we want to see how you code.
 1. Have fun, we want you to enjoy this experience, your interviewers will be on hand to help you, use them like a coding buddy.
 
 Good luck! 😃
